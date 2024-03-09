@@ -1,0 +1,10 @@
+{
+  "name": "schedule",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mohammad Ayman <60328501+MohammadAyman25-sudo@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx live-server"
+  }
+}
