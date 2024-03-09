@@ -18,6 +18,7 @@ th {
 
 .day,
 th {
+  text-transform: capitalize;
   background-color: #456;
 }
 
